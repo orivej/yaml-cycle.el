@@ -100,3 +100,5 @@
   (define-key yaml-mode-map (kbd "<backtab>") 'yaml-cycle-global))
 
 (add-hook 'yaml-mode-hook 'yaml-cycle)
+
+(provide 'yaml-cycle)
