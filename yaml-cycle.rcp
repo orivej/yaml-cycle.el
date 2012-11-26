@@ -1,0 +1,5 @@
+(:name yaml-cycle
+       :description "Cycle YAML \"headings\" (dictionary items) in Emacs similarly to Org mode."
+       :type github
+       :pkgname "orivej/yaml-cycle.el"
+       :features yaml-cycle)
